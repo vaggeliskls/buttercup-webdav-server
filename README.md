@@ -9,7 +9,7 @@ The ButterCup password manager support 4 ways of managing secret vaults
 3. Google Drive
 4. Custom WebDav server
 
-This reposiroy create this custom WebDav server and also adds authentications mechanisms like **LDAP** or **Basic static auth** for helping small to medioum companies hosting inhouse password manager and also be able to authenticate their user with LDAP or basic authentications.
+This reposiroy create this custom WebDav server and also adds authentications mechanisms like **LDAP** or **Basic static auth** in order to helpi small to medium companies to host an inhouse password manager using their LDAP or basic authentications methods.
 
 ## 📦 Prerequisites
 
